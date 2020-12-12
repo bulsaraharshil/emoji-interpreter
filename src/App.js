@@ -10,7 +10,13 @@ var emojiDictionary = {
   "😔": "sad",
   "🥡": "takeout box",
   "❤️": "love",
-  "😑": "annoyance"
+  "😑": "annoyance",
+  "😨": "Fearful Face",
+  "😞": "Disappointed Face",
+  "😎": "Smiling Face with Sunglasses",
+  "🤢": "Nauseated Face",
+  "😩": "Weary Face",
+  "😫": "Tired Face"
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary); //converting object/dictionary to array
